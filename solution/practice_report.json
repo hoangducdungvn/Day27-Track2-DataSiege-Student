@@ -1,0 +1,22 @@
+{
+  "result": {
+    "n_faulty": 33,
+    "n_clean": 87,
+    "tpr": 1.0,
+    "fpr": 0.0115,
+    "cost_ledger": 176.0,
+    "budget": 220.0,
+    "cost_overage": 0.0,
+    "score": 49.66,
+    "phase": "practice",
+    "defense_file": "solution/defense.py",
+    "per_pillar_band": {
+      "n/a": "n/a",
+      "checks": "high",
+      "contracts": "high",
+      "ai_infra": "high",
+      "lineage": "high"
+    }
+  },
+  "signature": "a5ec4d875cb2727929e132577ce7071d6c2aaf176dd35613573b19d73dc86951"
+}
